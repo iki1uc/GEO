@@ -8,6 +8,35 @@ als Einstiegspunkt für alle Module, Achsen und Bereiche.
 iki1uc ist der sichtbare **ROOT‑Kern** des gesamten 3hit90‑Systems.
 
 ---
+# GEO – R-Ebene · iki1uc
+
+## Zweck
+GEO ist das Raum-Modul des 6E-Würfelsystems.
+Es definiert Lage, Position und räumliche Zuordnung für alle Module,
+die zwischen Struktur (D2), Energie (D3) und Verbindung (D4) arbeiten.
+
+## Struktur
+- NAME: GEO
+- ROOT: iki1uc
+- SYSTEM: 6E
+- MODUL: GEO
+- DIM: R (Raum)
+
+## Rolle
+GEO ist die Raum- und Lageachse des Systems.
+Es verbindet Struktur (HTML), Energie (body) und Verbindung (ANKER).
+
+## TMP-Läufer
+SYQ stabilisiert Übergänge zwischen API und META.
+
+## Regeln
+- GEO ist kein D0–D5 Modul.
+- GEO liegt in der R-Ebene (Raum).
+- GEO darf die 6E-Matrix nicht verändern.
+
+## Status
+STATE = STABIL  
+READY = 100%
 
 ## Identität
 - CORE: iki1uc  
