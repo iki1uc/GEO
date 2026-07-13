@@ -1,0 +1,15 @@
+NAME = GEO
+ROOT = iki1uc
+SYSTEM = 6E
+MODUL = GEO
+DIM = R
+
+ROLLE = Raum / Position / Lage
+FUNKTION = räumliche Zuordnung zwischen D2–D5 und META
+
+POSITION = R-Ebene (Raum)
+LINK = D2 (HTML) + D3 (body) + D4 (ANKER)
+TMP-LAEUFER = SYQ
+
+STATUS = STABIL
+READY = 100%
